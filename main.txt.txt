@@ -1,3 +1,7 @@
 Ten: Nguyen Hoang Phuong Nam
 Lop: 21DTHD2
 MSSV: 2180608573
+Tuoi: 20
+Gioi tinh: Nam
+Sinh ngay: 11/11/2003
+
